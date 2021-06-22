@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vinitesa
+- 👋 Hi, I’m @vinif00
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on anything

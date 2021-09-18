@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vinif00
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, HTML and CSS
+- 👀 I’m interested in Web Programming
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Nodejs and MongoDB
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me ...
 
